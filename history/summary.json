@@ -5,19 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/doctorsplaza.co.ke.ico",
     "slug": "doctors-plaza-kenya",
     "status": "down",
-    "uptime": "75.40%",
-    "uptimeDay": "74.25%",
-    "uptimeWeek": "75.40%",
-    "uptimeMonth": "75.40%",
-    "uptimeYear": "75.40%",
+    "uptime": "68.45%",
+    "uptimeDay": "62.02%",
+    "uptimeWeek": "68.45%",
+    "uptimeMonth": "68.45%",
+    "uptimeYear": "68.45%",
     "time": 635,
-    "timeDay": 458,
+    "timeDay": 358,
     "timeWeek": 635,
     "timeMonth": 635,
     "timeYear": 635,
     "dailyMinutesDown": {
       "2026-11-19": 361,
-      "2026-11-20": 79
+      "2026-11-20": 260
     }
   },
   {
@@ -26,11 +26,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.doctorsplaza.co.ke.ico",
     "slug": "app",
     "status": "down",
-    "uptime": "37.60%",
-    "uptimeDay": "46.00%",
-    "uptimeWeek": "37.60%",
-    "uptimeMonth": "37.60%",
-    "uptimeYear": "37.60%",
+    "uptime": "34.13%",
+    "uptimeDay": "45.99%",
+    "uptimeWeek": "34.13%",
+    "uptimeMonth": "34.13%",
+    "uptimeYear": "34.13%",
     "time": 694,
     "timeDay": 694,
     "timeWeek": 694,
@@ -39,7 +39,7 @@
     "dailyMinutesDown": {
       "2026-11-19": 935,
       "2026-11-18": 103,
-      "2026-11-20": 78
+      "2026-11-20": 259
     }
   },
   {
@@ -54,7 +54,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 756,
-    "timeDay": 814,
+    "timeDay": 790,
     "timeWeek": 756,
     "timeMonth": 756,
     "timeYear": 756,
